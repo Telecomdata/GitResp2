@@ -7,5 +7,6 @@ package com.chj;
  * @version:1.0
  */
 public class Student {
-
+    private int age ;//
+    private String sex;
 }
