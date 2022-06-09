@@ -9,4 +9,5 @@ package com.chj;
 public class Student {
     private int age ;//
     private String sex;
+    private String ade;
 }
